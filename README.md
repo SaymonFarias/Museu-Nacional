@@ -1,11 +1,11 @@
 # Museu-Nacional
  My third project, made with CSS/HTML, with formatting more focused on larger displays.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SaymonFarias/Unes?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/SaymonFarias/Unes?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/SaymonFarias/Unes?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/SaymonFarias/Unes?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/SaymonFarias/Unes?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/SaymonFarias/Museu-Nacional?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/SaymonFarias/Museu-Nacional?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/SaymonFarias/Museu-Nacional?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/SaymonFarias/Museu-Nacional?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/SaymonFarias/Museu-Nacional?style=for-the-badge)
 
 
 ## 🚀 Instruction to start
